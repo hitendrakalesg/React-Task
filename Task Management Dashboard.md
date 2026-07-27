@@ -14,7 +14,7 @@ The application should allow users to manage tasks through a modern and user-fri
 
 ## ⏱ Time Limit
 
-**90 Minutes**
+**60 Minutes**
 
 ---
 
