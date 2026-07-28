@@ -14,7 +14,7 @@ The application should simulate a simple authentication system with different da
 
 ## ⏱ Time Limit
 
-**60 Minutes**
+**75 Minutes**
 
 ---
 
