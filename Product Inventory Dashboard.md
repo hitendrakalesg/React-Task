@@ -14,7 +14,7 @@ The application should allow users to manage products through a clean and user-f
 
 ## ⏱ Time Limit
 
-**60 Minutes**
+**75 Minutes**
 
 ---
 
