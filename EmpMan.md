@@ -14,7 +14,7 @@ The application should allow users to manage employees through a clean and user-
 
 ## ⏱ Time Limit
 
-**60 Minutes**
+**75 Minutes**
 
 ---
 
