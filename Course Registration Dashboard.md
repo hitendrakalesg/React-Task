@@ -14,7 +14,7 @@ The application should allow users to manage students, courses, and course enrol
 
 ## ⏱ Time Limit
 
-**60 Minutes**
+**75 Minutes**
 
 ---
 
