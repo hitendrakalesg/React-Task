@@ -14,7 +14,7 @@ The application should provide a dashboard to manage doctors, patients, and appo
 
 ## ⏱ Time Limit
 
-**60 Minutes**
+**75 Minutes**
 
 ---
 
